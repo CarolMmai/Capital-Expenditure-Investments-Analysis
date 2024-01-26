@@ -46,11 +46,13 @@ Employed Power BI to interface with the Excel Power Query output, crafting a cus
 ---
 
 <p align="center">
-  <img src="https://github.com/CarolMmai/Late-Product-Deliveries-Analysis/blob/main/Power_BI_report_Late_product_delivery.gif" width="800" height="450" alt="Late Product Delivery Power BI Report">
+  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/CAPEX_Investment_report.gif" width="800" height="450" alt="CAPEX_Investment_report">
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github.com/CarolMmai/Late-Product-Deliveries-Analysis/blob/main/Power_BI_report_Late_product_delivery.gif" width="800" height="450" alt="Late Product Delivery Power BI Report">
+  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/Network%20Project%20spend%20Power%20BI%20report.gif" width="800" height="450" alt="Late_product_delivery_Power_BI_report">
 </p>
 
 
