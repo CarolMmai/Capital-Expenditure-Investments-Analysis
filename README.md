@@ -1,4 +1,4 @@
-# Capital-Expenditure-Investments-Analysis
+# Capital Expenditure Investments Analysis
 
 
 ![Power BI](https://img.shields.io/badge/Analytics-Power_BI-yellow?logo=powerbi&logoColor=white&style=flat-square) <br>
