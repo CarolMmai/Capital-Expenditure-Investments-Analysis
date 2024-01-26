@@ -52,8 +52,12 @@ Employed Power BI to interface with the Excel Power Query output, crafting a cus
 <br>
 
 <p align="center">
-  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/Network%20Project%20spend%20Power%20BI%20report.gif" width="800" height="450" alt="Late_product_delivery_Power_BI_report">
+  <img src="https://github.com/CarolMmai/Capital-Expenditure-Investments-Analysis/blob/main/Network%20Project%20spend%20Power%20BI%20report.gif" width="800" height="450" alt="Network Project spend Power BI report">
 </p>
+
+<br>
+
+The CAPEX Investment report gives a broad overview of divisional budgets and spending, suitable for management reviews. On the other hand, the Network project report goes deeper into specific projects, offering detailed insights into expenses, the need for budget adjustments, and opportunities for cost savings. This detailed report involves calculations considering financial, market, and product-related factors.
 
 
 ### Value added to the business
