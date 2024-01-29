@@ -21,9 +21,11 @@ The report delves into historical spending patterns related to past projects, fa
 ### Dataset Information
 ---
 
-This dataset, obtained through VBS scripting from SAP, provides near real-time data. Historical reports, generated using for loops, enable ongoing monitoring of expenditures on long-term projects against annual budgets. Project budgets are adjusted at year-end to meet project needs.
+The dataset is a simulation of the true data obtained through VBS scripting from SAP, provides near real-time data. Historical reports, generated using for loops, enable ongoing monitoring of expenditures on long-term projects against annual budgets. Project budgets are adjusted at year-end to meet project needs.
 
 In a star schema format, dimension tables, including a Power BI hard-coded date table and divisional cost center details, are complemented by a fact table. I have also developed additional Power BI reports, presenting information on spending, forecasting, and comments from respective divisions, particularly in cases of significant over or underspending.
+
+(Please note that the data herein is a simulation and not actual data)
 
 
 ### Project Approach
